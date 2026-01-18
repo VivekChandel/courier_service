@@ -1,1 +1,0 @@
-# Makes 'courier' a package
